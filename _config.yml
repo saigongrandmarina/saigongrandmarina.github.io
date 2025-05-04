@@ -1,12 +1,12 @@
 # Site settings
-title: Saigon Grandmarina
+title: Saigon Grand Marina
 #email: your-email@domain.com
 email: oanhbn7@gmail.com
 #url: https://github.com/jeromelachaud/freelancer-theme
 url: https://github.com/saigongrandmarina/saigongrandmarina.github.io
 description: "Căn hộ cao cấp dự án Sài Gòn Grandmarina, Trung tâm Quận 1"
 keywords: "bất động sản cao cấp, saigon, grandmarina"
-skills: "bất động sản cao cấp quận 1, TP. Hồ Chí Minh"
+skills: "Bất động sản cao cấp Saigon Grand Marina, Quận 1"
 meta_author: Tô Bảo Ngọc
 
 # Google webmaster tools
@@ -34,8 +34,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Tô Bảo Ngọc
+  location: Quận 5, Hồ Chí Minh City
   social: Around the Web
   credits: Credits
 
@@ -54,8 +54,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Quận 5, TP. Hồ Chí Minh
+  - line: Phone 0944.30.2828
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
