@@ -1,12 +1,13 @@
 # Site settings
-title: Freelancer
+title: Saigon Grandmarina
 #email: your-email@domain.com
 email: oanhbn7@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+#url: https://github.com/jeromelachaud/freelancer-theme
+url: https://github.com/saigongrandmarina/saigongrandmarina.github.io
+description: "Căn hộ cao cấp dự án Sài Gòn Grandmarina, Trung tâm Quận 1"
+keywords: "bất động sản cao cấp, saigon, grandmarina"
+skills: "bất động sản cao cấp quận 1, TP. Hồ Chí Minh"
+meta_author: Tô Bảo Ngọc
 
 # Google webmaster tools
 google_verify:
