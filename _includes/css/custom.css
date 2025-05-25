@@ -7,12 +7,13 @@ header {
     color: #fff;
     display: block;
     max-width: 100%;
-    background-size: cover;
+/*     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    heigh: auto;
+    heigh: auto; */
     margin: 0;
     padding: 0;
     border: none;
-    background-image: url('/img/portfolio/banner.jpg')
+    <img src="/img/portfolio/banner.jpg" alt="Banner" style="width: 100%; height: auto; display: block;">
+/*     background-image: url('/img/portfolio/banner.jpg') */
 }
