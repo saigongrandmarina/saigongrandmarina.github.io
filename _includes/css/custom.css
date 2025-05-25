@@ -6,7 +6,10 @@ header {
     text-align: center;
     color: #fff;
     max-width: 100%;
-    height: auto;
     display: block;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 38.54%; 
     background-image: url('/img/portfolio/banner.jpg')
 }
