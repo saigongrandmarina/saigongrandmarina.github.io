@@ -5,11 +5,14 @@
 header {
     text-align: center;
     color: #fff;
-    max-width: 100%;
     display: block;
-    background-size: contain;
+    max-width: 100%;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding-bottom: 38.54%; 
+    heigh: 740px;
+    margin: 0;
+    padding: 0;
+    border: none;
     background-image: url('/img/portfolio/banner.jpg')
 }
