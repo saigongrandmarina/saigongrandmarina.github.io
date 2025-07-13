@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 6
+date: 2025-07-07
+img: security.jpg
+alt: image-alt
+project-date: Jul 2025
+description: Phòng ngủ rộng rãi, thảm cao cấp trải xung quanh giường, có thể view ra không gian bên ngoài.
+---
