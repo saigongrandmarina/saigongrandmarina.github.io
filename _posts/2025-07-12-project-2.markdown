@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2025-07-17
+date: 2025-07-12
 img: gym.jpg
 alt: image-alt
 project-date: Jul 2025
