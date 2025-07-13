@@ -4,8 +4,7 @@ modal-id: 1
 date: 2025-07-13
 img: infinity.jpg
 alt: image-alt
-project-date: Jul 2025
-client: Start Bootstrap
-category: Web Development
+Bể bơi: Infinity
+Góc nhìn: View bao trùm Quận 1, Sông Sài Gòn
 description: Bể bơi vô cực với góc nhìn từ trên cao, góc nhìn bao quát Quận 1, Hồ Chí Minh
 ---
