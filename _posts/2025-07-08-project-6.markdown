@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2025-07-08
 img: bad_room_2.jpg
 alt: image-alt
