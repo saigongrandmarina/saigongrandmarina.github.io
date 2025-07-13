@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2025-07-05
-img: lobby_1.jpg
+img: lobby_2.jpg
 alt: image-alt
 Bể bơi: Infinity
 Description: Sảnh ra vào
