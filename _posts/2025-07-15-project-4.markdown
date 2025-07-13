@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2025-07-15
 img: living_room_1.jpg
 alt: image-alt
 project-date: Jul 2025
