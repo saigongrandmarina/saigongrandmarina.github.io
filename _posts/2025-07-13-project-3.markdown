@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 3
+date: 2025-07-13
+img: living_room.jpg
+alt: image-alt
+project-date: Jul 2025
+description: Phòng khách với nội thất sang trọng, được thiết kế với màu sắc nổi bật, ánh sáng mặt trời lan tỏa cả căn phòng
+---
