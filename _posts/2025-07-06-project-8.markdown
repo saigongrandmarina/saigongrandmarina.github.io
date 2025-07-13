@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 8
-date: 2025-07-13
+date: 2025-07-06
 img: lobby_1.jpg
 alt: image-alt
 Bể bơi: Infinity
