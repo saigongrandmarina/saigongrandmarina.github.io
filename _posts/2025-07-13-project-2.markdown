@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 2
+date: 2025-07-13
+img: gym.jpg
+alt: image-alt
+project-date: Jul 2025
+description: Phòng GYM đầy đủ tiện nghi, trang thiết bị. Vừa tập GYM vừa ngắm khung cảnh từ trên xuống, cùng với không khí trong lành đảm bảo khách hàng tận hưởng những giây phút thư thái, thoải mái
+---
