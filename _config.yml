@@ -55,10 +55,10 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: HOTLINE
-  - line: Phone 0944.30.2828
+  - line: 0944.30.2828
 
 # Credits content
-credits: 'Grand Marina Sai Gon là dự án bất động sản sang trọng bậc nhất, tọa lạc tại vị trí có một không hai trong lòng Sài Gòn'
+credits: 'Bất Động Sản Cao Cấp TP. Hồ Chí Minh'
 
 # Build settings
 markdown: kramdown
